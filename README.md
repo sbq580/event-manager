@@ -11,7 +11,7 @@ eventManager.subscribe('useradded', function(event) {
 
 
 var data = {
-	name: 'Shabiq Hazarika',
+    name: 'Shabiq Hazarika',
     age: 26,
     dob: '23/02/1991'
 }
